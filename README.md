@@ -18,4 +18,4 @@ This repository contains a few notes and data files
    volume = "29", \
    number = "3" \
 }
-
+- Advanced Calculus - A Differential Forms Approach, Harold M. Edwards, 1994
